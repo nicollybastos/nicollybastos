@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">👩‍💻 Nicolly Góes Bastos</h1>
+<p align="center">
+  Estudante de <b>Engenharia da Informação</b> na UFABC <br>
+  Estudante de <b>ADS</b> na Unifavip Wyden <br>
+  Apaixonada por <b>tecnologia, programação e projetos eletrônicos</b>
+</p>
 
-<!--
-**nicollybastos/nicollybastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Things I code with
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-EE1C25?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Formação
+- **Engenharia da Informação – UFABC**  
+- **Interdisciplinar em Ciências e Tecnologia – UFABC**  
+- **Análise e Desenvolvimento de Sistemas – Unifavip Wyden**  
+- **Técnico em Eletrônica – ETEC Prof. Adhemar Batista Heméritas**  
+- **Técnico em Mecatrônica – ETEC Martin Luther King**  
+- **Técnico em Automação Industrial – ETEC Martin Luther King**  
+
+---
+
+### 🚀 Experiência & Intercâmbios
+- Auxiliar de Docente em **Eletrônica e Elétrica** – *Centro Paula Souza*  
+- Intercâmbio de Inglês em **Londres**  
+
+---
+
+### 🌐 Contato
+- **Email:** [Nigoes2005@gmail.com](mailto:Nigoes2005@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/nicolly-bastos-9b21901b3/](https://www.linkedin.com/in/nicolly-bastos-9b21901b3/)  
+
+---
+
+<p align="center">
+  <i>Transformando conhecimento em prática, um projeto por vez. ✨</i>
+</p>
+
+
