@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Nicolly Góes Bastos</h1>
 <p align="center">
-  Estudante de <b>Engenharia da Informação</b> na UFABC <br>
+  Estudante de <b>Engenharia da Informação, Ciência da Computação e Ciência e Técnologia</b> na UFABC <br>
   Estudante de <b>ADS</b> na Unifavip Wyden <br>
   Apaixonada por <b>tecnologia, programação e projetos eletrônicos</b>
 </p>
