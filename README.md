@@ -22,18 +22,20 @@
 ---
 
 ### 🎓 Formação
-- **Engenharia da Informação – UFABC**  
-- **Interdisciplinar em Ciências e Tecnologia – UFABC**  
+- **Engenharia da Informação – UFABC**
+- **Ciências da Computação -UFABC**
+- **Interdisciplinar em Ciências e Tecnologia – UFABC** 
 - **Análise e Desenvolvimento de Sistemas – Unifavip Wyden**  
 - **Técnico em Eletrônica – ETEC Prof. Adhemar Batista Heméritas**  
 - **Técnico em Mecatrônica – ETEC Martin Luther King**  
-- **Técnico em Automação Industrial – ETEC Martin Luther King**  
+- **Técnico em Automação Industrial – ETEC Martin Luther King**
+- **Técnico em Desenvolvimentos de Sistemas – ETEC Martin Luther King**
 
 ---
 
 ### 🚀 Experiência & Intercâmbios
 - Auxiliar de Docente em **Eletrônica e Elétrica** – *Centro Paula Souza*  
-- Intercâmbio de Inglês em **Londres**  
+- Intercâmbio de Inglês em **Londres** e **Paris**
 
 ---
 
